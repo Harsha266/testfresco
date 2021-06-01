@@ -3,5 +3,5 @@ if p :
     print("Eat fast")
 else:
     print("Eat late")
-print("helo everyone this is there")
+print("helo  this is there")
 print("Hoi bro")
